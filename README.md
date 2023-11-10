@@ -14,17 +14,17 @@
 Для L2: 5 tt hh tr hj kl
 
 Тесты: <br>
-1)Входные данные: <br>
+1) Входные данные: <br>
 2 ff gg <br>
 5 tt hh tr hj kl <br>
 Выходные данные: {ff, gg, } {tt, hh, tr, hj, kl, } {fftt, ffhh, fftr, ffhj, ffkl, ggtt, gghh, ggtr, gghj, ggkl, }
 
-2)Входные данные: <br>
+2) Входные данные: <br>
 2 ww er <br>
 2 qw zx <br>
 Выходные данные: {ww, er, } {qw, zx, } {wwqw, wwzx, erqw, erzx, }
 
-3)Входные данные: <br>
+3) Входные данные: <br>
 1 gugu <br>
 3 halo helo hilo <br>
 Выходные данные: {gugu, } {halo, helo, hilo, } {guguhalo, guguhelo, guguhilo, }
