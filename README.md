@@ -9,19 +9,24 @@
 
 Программа реализована на языке программирования с++, для запуска необходимо использовать установленное ПО, например visual studio, либо онлайн компилятор c++. <br>
 После запуска программы необходимо ввести число цепочек и саму цепочку, для каждого языка.<br>
-Например: <br>
+Пример входных данных: <br>
 Для L1: 2 ff gg <br>
 Для L2: 5 tt hh tr hj kl
 
 Тесты: <br>
+1)Входные данные: <br>
+2 ff gg <br>
+5 tt hh tr hj kl <br>
+Выходные данные: {ff, gg, } {tt, hh, tr, hj, kl, } {fftt, ffhh, fftr, ffhj, ffkl, ggtt, gghh, ggtr, gghj, ggkl, }
 
-1)Входные данные: 3 aa bb cc 4 gg hh ioi po <br>
-Выходные данные: {aa, bb, cc, } {gg, hh, ioi, po, } {aagg, aahh, aaioi, aapo, bbgg, bbhh, bbioi, bbpo, ccgg, cchh, ccioi, ccpo, }
+2)Входные данные: <br>
+2 ww er <br>
+2 qw zx <br>
+Выходные данные: {ww, er, } {qw, zx, } {wwqw, wwzx, erqw, erzx, }
 
-2)Входные данные: 2 gh gg 2 ko jk <br>
-Выходные данные: {gh, gg, } {ko, jk, } {ghko, ghjk, ggko, ggjk, }
-
-3)Входные данные: 1 jiji 3 uio asd bnm <br>
-Выходные данные: {jiji, } {uio, asd, bnm, } {jijiuio, jijiasd, jijibnm, }
+3)Входные данные: <br>
+1 gugu <br>
+3 halo helo hilo <br>
+Выходные данные: {gugu, } {halo, helo, hilo, } {guguhalo, guguhelo, guguhilo, }
 
 
